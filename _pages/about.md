@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Xi Tan ( 谭曦 )"
+title: "Hi, I am Xi Tan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
