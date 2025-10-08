@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently advancing my academic journey as a Master's degree student at the School of Energy and Power Engineering, Huazhong University of Science and Technology, as part of their Interdisciplinary Graduate Program. My research, under the dedicated supervision of <strong>Prof. <a href="http://itp.energy.hust.edu.cn/info/1003/1024.htm" style="color: blue;">Guang Feng</a></strong>, is an extension of my academic pursuits. Prior to this, I was privileged to earn my Bachelor of Engineering degree from Nanjing Normal University, China, in 2022, under the nurturing guidance of <strong>Prof. <a href="http://energy.njnu.edu.cn/info/1204/7387.htm" style="color: blue;">Jing Qi</a></strong>.
+I am currently pursuing my Ph.D. in Chemical Engineering at Brown University under the supervision of <strong>Prof. <a href="https://engineering.brown.edu/people/yue-qi" style="color: blue;">Yue Qi</a></strong>. Before joining Brown, I completed my Master’s degree at the School of Energy and Power Engineering, Huazhong University of Science and Technology, under the dedicated supervision of <strong>Prof. <a href="http://itp.energy.hust.edu.cn/info/1003/1024.htm" style="color: blue;">Guang Feng</a></strong>, which served as an extension of my academic pursuits. Prior to this, I was privileged to earn my Bachelor of Engineering degree from Nanjing Normal University, China, in 2022, under the nurturing guidance of <strong>Prof. <a href="http://energy.njnu.edu.cn/info/1204/7387.htm" style="color: blue;">Jing Qi</a></strong>.
 
-My research delves into the intricacies of atomic-level interfaces and transport phenomena within the **solid-liquid interface electric double layers (EDLs)**, with a particular focus on its **dynamic processes of formation and relaxation**, as well as the **entropy of interfacial formation**. I explore the underlying microscopic mechanisms of the entropy of interfacial formation, while devising regulatory strategies from a molecular and atomic standpoint. Additionally, I maintain a keen interest in harnessing the power of emerging **machine learning potentials to investigate electrochemical reactions at EDLs**.
+My research delves into the intricacies of **complex electrochemical processes within the solid-liquid interface electric double layers (EDLs)**. I explore the underlying microscopic mechanisms of the **EDLs formation and ion transport**, while devising regulatory strategies from a molecular and atomic standpoint. Additionally, I maintain a keen interest in harnessing the power of emerging **machine learning potentials to investigate electrochemical reactions at EDLs**.
 
 > **<span style="color: 264653; background-color: #e0b1cb;">If you're interested in collaborating or just want to have a chat, please feel free to email me at tannxi99@gmail.com! I am always open to discussions and eager to learn from others. ^_^!</span>**
 
@@ -30,6 +30,7 @@ News
 10. [Oct/2024] We published a research paper entitled<span style="color: green;"> <a href="https://pubs.rsc.org/en/content/articlehtml/2024/ee/d4ee01618a" style="color: green; text-decoration: none;"><u>Unveil the role of structural vacancy in Mn-based Prussian blue analogues for energy storage application</u></a> </span>in <em>Energy & Environmental Science</em>.
 11. [Mar/2025] We published a research paper entitled<span style="color: green;"> <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202500943" style="color: green; text-decoration: none;"><u>Machine Learning Relationships Between Nanoporous Structures and Electrochemical Performance in MOF Supercapacitors</u></a> </span>in <em>Advanced Materials</em>.
 12. [Jul/2025] We published a review paper entitled<span style="color: green;"> <a href="https://www.sciencedirect.com/science/article/pii/S2095495625002037" style="color: green; text-decoration: none;"><u>Atomistic simulation of batteries via machine learning force fields: From bulk to interface</u></a> </span>in <em>Journal of Energy Chemistry</em>.
+13. [Oct/2025] We published a research paper entitled<span style="color: green;"> <a href="https://www.sciencedirect.com/science/article/pii/S295046352500016X" style="color: green; text-decoration: none;"><u>Volcano-like relation between surface confinement and heat generated in electrical double layers</u></a> </span>in <em>Computational Materials Today</em>.
 
 > <details>
 >     <summary style="font-family: Arial, sans-serif; font-size: 25px; font-weight: bold;">More News</summary>
@@ -42,24 +43,13 @@ News
 
 Selected Publications
 ======
+1. **Xi Tan**, Liang Zeng\*, Yujie Niu, Zixuan Wang, Nan Huang, Zhenxiang Wang, Xin Zhao, Ming Chen, Dong Zhou, Guang Feng\*. Volcano-like relation between surface confinement and heat generated in electrical double layers. *Computational Materials Today*, 2025, 8, 100040. <a href="https://www.sciencedirect.com/science/article/pii/S295046352500016X" style="color: blue;">Linkage</a>
+
 1. **Xi Tan,** Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian\*, Guang Feng\*.  Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202400564" style="color: blue;">Linkage</a>
 
 1. Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng\*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?  *Journal of Energy Chemistry*, 2024, 94, 54. <a href="https://www.sciencedirect.com/science/article/pii/S2095495624001694?via%3Dihub" style="color: blue;">Linkage</a>
 
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. <a href="https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub" style="color: blue;">Linkage</a>
-
-
----
-
-Awards
-======
-1. 2024	First-Class Scholarship of Huazhong University of Science and Technology (Top 10%)
-
-2. 2023	Second-Class Scholarship of Huazhong University of Science and Technology (Top 15%)
-
-3. 2022	First-Class Scholarship of Huazhong University of Science and Technology (Top 10%)
-
-4. 2020	National College Students’ Entrepreneurship Plan Competition (1st Place in Nanjing Normal University)
 
    
 
