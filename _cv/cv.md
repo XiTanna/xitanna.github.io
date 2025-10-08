@@ -35,12 +35,9 @@ Selected Publications
 
 **[Google Scholar personal academic profile](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AP6z3ObibXgGh3YvQVc5OuYR559BflnkemWmuPMQxAdLl9IPljZC-2SQhDSyjjEYFyOD6G259gb58NzmhvdxXakpwU9qqj0&user=0Mn4_mIAAAAJ)**
 
-1. **Xi Tan**, Liang Zeng\*, Yujie Niu, Zixuan Wang, Nan Huang, Zhenxiang Wang, Xin Zhao, Ming Chen, Dong Zhou, Guang Feng\*. Volcano-like relation between surface confinement and heat generated in electrical double layers. *Computational Materials Today*, 2025, 8, 100040. <a href="https://www.sciencedirect.com/science/article/pii/S295046352500016X" style="color: blue;">Linkage</a>
-
+1. **Xi Tan**, Liang Zeng\*, Yujie Niu, Zixuan Wang, Nan Huang, Zhenxiang Wang, Xin Zhao, Ming Chen, Dong Zhou, Guang Feng\*. Volcano-like relation between surface confinement and heat generated in electrical double layers. *Computational Materials Today*, 2025, 8, 100040. [Linkage](https://www.sciencedirect.com/science/article/pii/S295046352500016X)
 1. **Xi Tan,** Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian\*, Guang Feng\*.  Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564. [Linkage](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202400564)
-
 1. Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng\*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?  *Journal of Energy Chemistry*, 2024, 94, 54. [Linkage](https://www.sciencedirect.com/science/article/pii/S2095495624001694?via%3Dihub)
-
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
 
 
