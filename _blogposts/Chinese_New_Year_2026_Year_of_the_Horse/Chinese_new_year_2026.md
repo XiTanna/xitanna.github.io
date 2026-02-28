@@ -1,9 +1,9 @@
 ---
 title: NEP Machine Learning Potential Training for Room Temperature Water
-date: 2023-08-02 10:41:45
+date: 2026-02-20 10:41:45
 collection: blogposts
 permalink: /blogposts/Chinese_New_Year_2026_Year_of_the_Horse/Chinese_new_year_2026
-thumbnail: /blogposts/Chinese_New_Year_2026_Year_of_the_Horse/Chinese_New_Year_2026_images/03.png
+thumbnail: /blogposts/Chinese_New_Year_2026_Year_of_the_Horse/Chinese_New_Year_2026_images/03.jpg
 tags:
   - Chinese New Year
   - foods
@@ -61,4 +61,3 @@ categories: blog
   <img src='https://raw.githubusercontent.com/XiTanna/imags/main/Chinese_New_Year_2026_images/08.jpg' alt='My Image' width='700'/>
   <p style="text-align: center; margin-top: 1em;"><strong>Heavy Snow.</strong></p>
 </div>
-
