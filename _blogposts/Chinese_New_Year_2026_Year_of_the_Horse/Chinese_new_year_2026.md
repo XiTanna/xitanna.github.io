@@ -43,7 +43,7 @@ categories: blog
 
 <div style="text-align: center; margin: auto; display: block; width: fit-content;">
   <img src='https://raw.githubusercontent.com/XiTanna/imags/main/Chinese_New_Year_2026_images/05.jpg' alt='My Image' width='700'/>
-  <p style="text-align: center; margin-top: 1em;"><strong>Sichuan-Style Cold Snacks.</strong></p>
+  <p style="text-align: center; margin-top: 1em;"><strong>Sichuan-Style Cold Snacks (0.o).</strong></p>
 </div>
 
 <div style="text-align: center; margin: auto; display: block; width: fit-content;">
