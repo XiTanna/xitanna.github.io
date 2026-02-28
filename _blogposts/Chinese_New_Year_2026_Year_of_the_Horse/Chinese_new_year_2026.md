@@ -1,5 +1,5 @@
 ---
-title: NEP Machine Learning Potential Training for Room Temperature Water
+title: Happy Chinese New Year (2026)
 date: 2026-02-20 10:41:45
 collection: blogposts
 permalink: /blogposts/Chinese_New_Year_2026_Year_of_the_Horse/Chinese_new_year_2026
