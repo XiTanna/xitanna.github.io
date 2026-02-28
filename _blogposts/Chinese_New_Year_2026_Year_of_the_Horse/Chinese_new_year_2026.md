@@ -34,7 +34,7 @@ categories: blog
   <p style="text-align: center; margin-top: 1em;"><strong>Chinese New Year’s Eve Reunion Dinner.</strong></p>
 </div>
 
-## 2. Making Handmade Dumplings and Sichuan-Style Cold Snacks with My Lab Senior
+## 2. Making handmade dumplings and Sichuan-style cold snacks with my lab senior
 
 <div style="text-align: center; margin: auto; display: block; width: fit-content;">
   <img src='https://raw.githubusercontent.com/XiTanna/imags/main/Chinese_New_Year_2026_images/04.jpg' alt='My Image' width='700'/>
