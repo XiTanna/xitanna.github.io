@@ -1,9 +1,6 @@
 # main links links
 main:
 
-  - title: "Publications"
-    url: /publications/
-
 #  - title: "Submitted"
 #    url: /submitted/    
 
@@ -13,11 +10,8 @@ main:
   - title: "Talk Slides"
     url: /talks/
         
-  - title: "Blog Posts"
+  - title: "Moments"
     url: /blogposts/
-    
-  - title: "CV"
-    url: /cv/
     
 #  - title: "Softwares"
 #    url: /softwares/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog Posts"
+title: "Moments"
 permalink: /blogposts/
 author_profile: true
 ---
