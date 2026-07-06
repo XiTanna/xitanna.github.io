@@ -64,7 +64,7 @@ Selected Publications
 
 ***
 <div style="text-align: center; margin: 20px 0;">
-  <script type="text/javascript" id="clustrmaps" src="https://www.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=OMA2K1dAmRGTW9mPMmgzRLW7kMSfelF45YmgB4U81MA&cl=ffffff&w=a"></script>
 </div>
 
 
