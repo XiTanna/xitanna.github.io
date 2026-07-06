@@ -31,6 +31,7 @@ News
 11. [Mar/2025] We published a research paper entitled<span style="color: green;"> <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202500943" style="color: green; text-decoration: none;"><u>Machine Learning Relationships Between Nanoporous Structures and Electrochemical Performance in MOF Supercapacitors</u></a> </span>in <em>Advanced Materials</em>.
 12. [Jul/2025] We published a review paper entitled<span style="color: green;"> <a href="https://www.sciencedirect.com/science/article/pii/S2095495625002037" style="color: green; text-decoration: none;"><u>Atomistic simulation of batteries via machine learning force fields: From bulk to interface</u></a> </span>in <em>Journal of Energy Chemistry</em>.
 13. [Oct/2025] We published a research paper entitled<span style="color: green;"> <a href="https://www.sciencedirect.com/science/article/pii/S295046352500016X" style="color: green; text-decoration: none;"><u>Volcano-like relation between surface confinement and heat generated in electrical double layers</u></a> </span>in <em>Computational Materials Today</em>.
+14. [Jun/2026] We published a review paper entitled<span style="color: green;"> <a href="https://iopscience.iop.org/article/10.1149/2.F07262IF" style="color: green; text-decoration: none;"><u>The Charge Neutral Species in the Electrical Double Layer: No Longer a Background</u></a> </span>in <em>The Electrochemical Society Interface</em>.
 
 > <details>
 >     <summary style="font-family: Arial, sans-serif; font-size: 25px; font-weight: bold;">More News</summary>
@@ -51,7 +52,7 @@ Selected Publications
 
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. <a href="https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub" style="color: blue;">Linkage</a>
 
-   
+1. Yue Qi*, **Xi Tan**, Chaoxuan Gu. The charge neutral species in the electrical double layer: No longer a background  *The Electrochemical Society Interface*, 2026, 35, 43. <a href="https://iopscience.iop.org/article/10.1149/2.F07262IF" style="color: blue;">Linkage</a>
 
 ***
 
