@@ -52,7 +52,7 @@ Selected Publications
 
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. <a href="https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub" style="color: blue;">Linkage</a>
 
-1. Yue Qi*, **Xi Tan**, Chaoxuan Gu. The charge neutral species in the electrical double layer: No longer a background  *The Electrochemical Society Interface*, 2026, 35, 43. <a href="https://iopscience.iop.org/article/10.1149/2.F07262IF" style="color: blue;">Linkage</a>
+1. Yue Qi\*, **Xi Tan**, Chaoxuan Gu. The charge neutral species in the electrical double layer: No longer a background  *The Electrochemical Society Interface*, 2026, 35, 43. <a href="https://iopscience.iop.org/article/10.1149/2.F07262IF" style="color: blue;">Linkage</a>
 
 ***
 
