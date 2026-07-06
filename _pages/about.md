@@ -62,13 +62,6 @@ Selected Publications
 
 ***
 
-***
-<div style="text-align: center; max-width: 520px; margin: 20px auto;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=OMA2K1dAmRGTW9mPMmgzRLW7kMSfelF45YmgB4U81MA&cl=ffffff&w=a"></script>
-</div>
-
-
-
 <!-- Matomo -->
 
 <script>
